@@ -21,6 +21,7 @@ motion/
 *.png
 *.mp4
 *.avi
+*.pt
 
 # Jupyter Notebook
 .ipynb_checkpoints/
