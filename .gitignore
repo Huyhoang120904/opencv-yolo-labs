@@ -1,0 +1,39 @@
+# Python Virtual Environment
+lecture*/
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment Files
+pyvenv.cfg
+Include/
+Lib/
+Scripts/
+share/
+
+# OpenCV Labs - Motion Detection Output
+motion/
+*.jpg
+*.png
+*.mp4
+*.avi
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
